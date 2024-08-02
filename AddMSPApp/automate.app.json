@@ -58,7 +58,7 @@
     "@odata.type": "microsoft.graph.windowsMinimumOperatingSystem",
     "v10_1607": true
   },
-  "notes": "CIPP Uploaded application",
+  "notes": "",
   "minimumMemoryInMB": "1",
   "setupFilePath": "install.ps1"
 }
